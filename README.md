@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Herrera P.</h1>
-<h3 align="center">Computer Science Engineering student @dccuchile</h3>
+<h3 align="center">Computer Science Engineering student @ Universidad de Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
